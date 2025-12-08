@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-template
+  description: Plantilla React + Vite lista para Docker y NGINX.
+  tags:
+    - react
+    - vite
+    - template
+spec:
+  type: website
+  lifecycle: experimental
+  owner: user:guest
+  system: templates
+  dependsOn: []
+  providesApis: []
+  consumesApis: []
