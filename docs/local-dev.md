@@ -17,18 +17,18 @@
    ```bash
    npm run lint
    ```
-4. Build de producción:
+4. Build de produccion:
    ```bash
    npm run build
    ```
 
 ## Docker
-- Construye y levanta la app en modo producción:
+- Construye y levanta la app en modo produccion:
   ```bash
   docker compose build
   docker compose up -d
   ```
-- Detén y limpia:
+- Deton y limpia:
   ```bash
   docker compose down
   ```

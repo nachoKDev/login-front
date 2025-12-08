@@ -1,3 +1,3 @@
 # react-template
 
-Plantilla base para proyectos React con Vite, lista para desarrollo local, construcción y despliegue en producción mediante Docker y NGINX, e integrada con Backstage.
+Plantilla base para proyectos React con Vite, lista para desarrollo local, construccion y despliegue en produccion mediante Docker y NGINX, e integrada con Backstage.

@@ -1,8 +1,8 @@
 # Arquitectura
 
-- **Vite** como herramienta de bundling y desarrollo rápido.
+- **Vite** como herramienta de bundling y desarrollo rapido.
 - **React 18** para la UI.
-- **ESLint + Prettier** para calidad de código.
+- **ESLint + Prettier** para calidad de codigo.
 - **Dockerfile multi-stage**: compila la app con Node 20 y sirve el artefacto con NGINX.
 - **NGINX** configurado para servir la SPA y manejar rutas con `try_files`.
-- **docker-compose** para orquestar el contenedor de la aplicación.
+- **docker-compose** para orquestar el contenedor de la aplicacion.

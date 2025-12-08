@@ -1,13 +1,13 @@
 # react-template
 
-Plantilla React + Vite lista para desarrollo local y despliegue en producción con Docker multi-stage y NGINX.
+Plantilla React + Vite lista para desarrollo local y despliegue en produccion con Docker multi-stage y NGINX.
 
 ## Requisitos
 - Node.js >= 20
 - npm >= 10
 - Docker y Docker Compose
 
-## Uso básico
+## Uso basico
 ```bash
 npm install
 npm run dev
@@ -24,7 +24,7 @@ docker compose down
 
 ## Scripts disponibles
 - `npm run dev`: servidor de desarrollo Vite.
-- `npm run build`: compilación de producción.
+- `npm run build`: compilacion de produccion.
 - `npm run preview`: sirve el build generado.
 - `npm run lint`: linting con ESLint.
 
@@ -44,9 +44,9 @@ react-template/
 +-- .eslintrc.cjs
 +-- .prettierrc
 +-- src/
-¦   +-- main.jsx
-¦   +-- App.jsx
-¦   +-- styles.css
+   +-- main.jsx
+   +-- App.jsx
+   +-- styles.css
 +-- docs/
     +-- index.md
     +-- architecture.md
@@ -54,4 +54,4 @@ react-template/
 ```
 
 ## Backstage
-Incluye `catalog-info.yaml` y documentación en `docs/` para integrarlo como plantilla en Backstage.
+Incluye `catalog-info.yaml` y documentacion en `docs/` para integrarlo como plantilla en Backstage.
