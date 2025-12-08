@@ -1,0 +1,8 @@
+site_name: React Template Docs
+nav:
+  - Home: index.md
+  - Arquitectura: architecture.md
+  - Desarrollo local: local-dev.md
+
+plugins:
+  - techdocs-core
