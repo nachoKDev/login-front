@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: react-template
-  description: Plantilla React + Vite lista para Docker y NGINX.
+  name: login-front
+  description: Frontend de login/registro con React + Vite, listo para Backstage.
   tags:
     - react
     - vite
-    - template
+    - auth
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
