@@ -11,9 +11,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: nachoKDev
-  system: templates
-  dependsOn: []
-  providesApis: []
-  consumesApis: []
+  system: bar-login
